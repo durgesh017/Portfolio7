@@ -86,7 +86,7 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
-    ],
+    ]
   },
   {
     title: "Android",
@@ -111,7 +111,7 @@ export const skills = [
         image:
           "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
       },
-    ],
+    ]
   },
   {
     title: "Others",
@@ -234,7 +234,7 @@ export const projects = [
     title: "Gozar Live Video Chat (Dating Application)",
     date: "Oct 2023 - Feb 2024",
     description:
-      "Spearheaded the creation and launch of the Gozar Dating app, now serving over 100,000 users on the <a href>Play Store</a>. Managed all aspects of the project from concept to deployment, including design, development, and implementation. Focused on large-scale software development with a strong emphasis on data security and efficient system management.",
+      "Spearheaded the creation and launch of the Gozar Dating app, now serving over 100,000 users on the Play Store. Managed all aspects of the project from concept to deployment, including design, development, and implementation. Focused on large-scale software development with a strong emphasis on data security and efficient system management.",
     image:
       "https://play-lh.googleusercontent.com/hdlZdL5lg_hIGk6TS13vssnqNorijP0xeBeeLzJ0Q3ukQH0M7qLcYSDZGRKyQFsYv7I=w240-h480-rw",
     tags: [
