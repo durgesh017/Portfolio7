@@ -1,7 +1,7 @@
 {
   "name": "dhruvil-dhanani-portfolio",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://github.com/dhruvil-123",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
